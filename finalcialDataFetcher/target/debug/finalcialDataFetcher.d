@@ -1,0 +1,1 @@
+/workspaces/FinancialDataFetcher/finalcialDataFetcher/target/debug/finalcialDataFetcher: /workspaces/FinancialDataFetcher/finalcialDataFetcher/src/main.rs
